@@ -1,0 +1,17 @@
+*{
+    background-color:lightgray;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    background-color: lightgray;
+    padding: 10px;
+}
+
+strong{color:crimson}
